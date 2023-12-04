@@ -5,7 +5,8 @@ Utility function to translate nucleotide variants to mutated protein sequences f
 
 Example usage:
 
-```
+
+```python
 # target_gene is the standard gene name such as PF3D7_1343700
 db = GetVariantForGene(target_sample_ids=sample_ids)
 output_dict = db.get_variant_in_gene(target_gene)
