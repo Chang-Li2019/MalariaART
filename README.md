@@ -30,7 +30,7 @@ Utility function to translate nucleotide variants to consensus protein sequences
 ## Example usage:
 
 ```bash
-python malairagen_dna_to_protein.py\
+python malariagen_dna_to_protein.py\
 --species pf7 --log log.txt --output output_seqs --gff_file PlasmoDB-66_Pfalciparum3D7.gff \
 --genome_fa PlasmoDB-66_Pfalciparum3D7_Genome.fasta --cds_fa PlasmoDB-66_Pfalciparum3D7_AnnotatedCDSs.fasta \
 --protein_fa PlasmoDB-66_Pfalciparum3D7_AnnotatedProteins.fasta
