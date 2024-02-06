@@ -4,6 +4,7 @@ Utility function to translate nucleotide variants to consensus protein sequences
 
 ## Required packages:
   Biopython
+  gffutils
   numpy
   pandas
   xarray
