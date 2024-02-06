@@ -3,12 +3,12 @@
 Utility function to translate nucleotide variants to consensus protein sequences from [MalariaGen](https://www.malariagen.net/resource/34), at https://github.com/malariagen/malariagen-data-python
 
 ## Required packages:
-  Biopython
-  gffutils
-  numpy
-  pandas
-  xarray
-  malariagen_data
+  Biopython  
+  gffutils  
+  numpy  
+  pandas  
+  xarray  
+  malariagen_data  
   
 ## Required arguments: 
   --species {pf7,ag3,amin1,pv4}
